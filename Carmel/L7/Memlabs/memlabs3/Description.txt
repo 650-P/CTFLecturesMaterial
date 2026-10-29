@@ -1,0 +1,5 @@
+Challenge Description:
+
+A malicious script encrypted a very secret piece of information I had on my system. Can you recover the information for me please?
+
+Note: This challenge originally has 2 parts, each containing half of the flag. You are only expected to find the first half.

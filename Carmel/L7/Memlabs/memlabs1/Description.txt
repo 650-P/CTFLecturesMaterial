@@ -1,0 +1,3 @@
+Challenge Description:
+
+My sister's computer crashed. We were very fortunate to recover this memory dump. Your job is get her important files from the system. From what we remember, she was processing some files.

@@ -1,0 +1,3 @@
+Challenge Description:
+
+One of the clients of our company, lost the access to his system due to an unknown error. He is supposedly a very popular "environmental" activist. As part of the investigation, you need to find his activity related to the "environment".
